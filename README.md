@@ -28,7 +28,5 @@ Observe the Jasmine tests at the bottom of the page.
 The test contains 4 suites with a total of 7 specs.
 All the tests must be passed; "7 specs, 0 failures" message must be displayed on a green background.
 
-
 ### Live Link
 A live link to the GitHub hosted page can be found [here](https://hrdaniel4877.github.io/feed-reader-testing/)
-
